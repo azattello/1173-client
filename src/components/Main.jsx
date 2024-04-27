@@ -59,7 +59,7 @@ const Main = () => {
 
                             </div> */}
 
-                            <a href='https://wa.link/jiahks' className="block_info ">
+                            <a href='https://wa.link/ezmn07' className="block_info ">
                                 <h3 className='text__block_info'>Стать партнером</h3>
                                 <img className="iconMain" src={handshake} alt="" />
 
